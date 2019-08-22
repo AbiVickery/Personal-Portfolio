@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap');
+        </style>
+        
+        
+        
+        <div class="icon nav-icon-1">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        
+        <!-- <form>
+        <input class="module" type="checkbox" title="Happy" name="happy" id="happy">
+          <label for="happy" class="option-happy">Happy</label>
+        </form> -->
+        <!-- portfolio page ruft-draft -->
+          <h1> My Portfolio <img id="buddy" src="http://www.pkparaiso.com/imagenes/xy/sprites/animados-shiny/mawile-mega.gif" alt="Mega Mawile"></h1>
+        <hr />
+        <h2> short info goes here </h2>
+        <br />
+        <br />
+        <br />
+        <h3 id="text1"> Text saying project list </h3>
+        <h4 id="bloxs"> Projects listed here </h4>
+        
+        <iframe height="265" style="width: 100%;" scrolling="no" title="FCC Tribute Page Mawile and Mega Mawile" src="//codepen.io/abivickery/embed/jgMjQy/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+          See the Pen <a href='https://codepen.io/abivickery/pen/jgMjQy/'>FCC Tribute Page Mawile and Mega Mawile</a> by Abby
+          (<a href='https://codepen.io/abivickery'>@abivickery</a>) on <a href='https://codepen.io'>CodePen</a>.
+        </iframe>
+        
+</body>
+</html>
