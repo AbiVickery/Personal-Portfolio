@@ -39,6 +39,7 @@
         <br />
         <br />
         <h3 id="text1"> Text saying project list </h3>
+        <br />
         <h4 id="bloxs"> Projects listed here </h4>
         
          <iframe height="265" style="width: 75%;" scrolling="no" title="FCC Tribute Page Mawile and Mega Mawile" src="//codepen.io/abivickery/embed/jgMjQy/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
