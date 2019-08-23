@@ -7,7 +7,7 @@ body {
       background-size: 100% 100%;
       background-repeat: no-repeat;
       font-family: 'Kaushan Script', cursive;
-      font-color: rgb(202,153,242)
+      font-color: rgb(202,153,242);
    } 
    
    /* body {

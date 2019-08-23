@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="style">
+    <!-- <link rel="stylesheet" href="style"> -->
     <title>Document</title>
 </head>
 <body>
@@ -31,7 +31,7 @@
           <label for="happy" class="option-happy">Happy</label>
         </form> -->
         <!-- portfolio page ruft-draft -->
-        <img src="IMG_0817.PNG" alt="me on a transparent bkg">
+        <!-- <img src="IMG_0817.PNG" alt="me on a transparent bkg"> -->
           <h1> My Portfolio <img id="buddy" src="http://www.pkparaiso.com/imagenes/xy/sprites/animados-shiny/mawile-mega.gif" alt="Mega Mawile"></h1>
         <hr />
         <h2> short info goes here </h2>
