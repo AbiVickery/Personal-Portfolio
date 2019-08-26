@@ -18,4 +18,4 @@ icons.forEach (icon => {
 
 // my about stuff for my bio is down below
 
-// My name is Abigail Vickery. I was homeschooled from the 3rd grade all the way to highschool before college. I graduated class of 2019.
+// My name is Abigail Vickery. I was homeschooled from the 3rd grade all the way to highschool before college. I graduated class of 2019. I have Aspergers Autism. That means that even though I have a slightly higher than average IQ, I still struggle with things like social interaction, understanding sarcasm, etc.
