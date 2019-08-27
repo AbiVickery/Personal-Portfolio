@@ -145,5 +145,42 @@ body {
 
    .codepen {
      height: auto;
+     width: 50%;
+   }
+
+   .github {
      width: auto;
+     height: auto;
+   }
+   .linkdin {
+     width: auto;
+     height: auto;
+   }
+   .twiter {
+     width: auto;
+     height: auto;
+   }
+   .instagram {
+     width: auto;
+     height: auto;
+   }
+   .youtube {
+     width: auto;
+     height: auto;
+   }
+   .codpin {
+     width: auto;
+     height: auto;
+   }
+   .bandcamp {
+     width: auto;
+     height: auto;
+   }
+   .koffe {
+     width: auto;
+     height: auto;
+   }
+   .gmail {
+     width: auto;
+     height: auto;
    }
