@@ -152,6 +152,24 @@ body {
      width: 50%;
    }
 
+
+    .container12 {
+      margin-left: auto;
+      margin-right: auto;
+      width: 960px;
+    }
+
+
+    .grid1,
+    .grid2 {
+      display: inline;
+  /* float: left; */
+  margin-left: 10px;
+  margin-right: 10px;
+    }
+
+
+
    .github {
      /* width: 75px; */
      /* height: auto; */
