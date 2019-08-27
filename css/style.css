@@ -153,38 +153,47 @@ body {
    }
 
    .github {
-     width: 75px;
-     height: auto;
+     /* width: 75px; */
+     /* height: auto; */
+     size: 100px;
    }
    .linkdin {
-     width: 75px;
-     height: auto;
+     /* width: 75px; */
+     /* height: auto; */
+     size: 100px;
    }
    .twiter {
-     width: 75px;
-     height: auto;
+     /* width: 75px; */
+     /* height: auto; */
+     size: 100px;
    }
    .instagram {
-     width: 75px;
-     height: auto;
+     /* width: 75px; */
+     /* height: auto; */
+     size: 100px;
    }
    .youtube {
-     width: 75px;
-     height: auto;
+     /* width: 75px; */
+     /* height: auto; */
+     size: 100px;
    }
    .codpin {
-     width: 75px;
-     height: auto;
+     /* width: 75px; */
+     /* height: auto; */
+     size: 100px;
    }
    .bandcamp {
-     width: 75px;
-     height: auto;
+     /* width: 75px; */
+     /* height: auto; */
+     size: 100px;
    }
    .koffe {
-     width: 75px;
-     height: auto;
+     /* width: 75px; */
+     /* height: auto; */
+     size: 100px;
    }
    .gmail {
-     width: 75px;
-     height: auto;
+     /* width: 75px; */
+     /* height: auto; */
+     size: 100px;
    }
