@@ -5,6 +5,7 @@ icons.forEach (icon => {
     icon.classList.toggle("open");
   });
 });
+});
 
 // need to set up links to:
 // my github,
