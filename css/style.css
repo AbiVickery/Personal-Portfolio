@@ -136,7 +136,13 @@ body {
      cursor: url(https://ui-ex.com/images/transparent-cursor-purple-2.png), auto;	
    } */
    
-   buddy {
+   #picofme {
+     height: 100px;
+     width: 100px;
+     position: center;
+   }
+
+   .buddy {
      margin-top: 100px;
      margin-right: 0;
      margin-bottom: 0;
