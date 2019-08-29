@@ -7,12 +7,11 @@ icons.forEach (icon => {
 });
 });
 
-// need to set up links to:
+// need to smake these links usable:
 // my github,
 // my linkedin,
 // my twitter,
 // my instagram,
 // my youtube,
 // my codepen,
-// my (future) koffie,
 // my email (buisness address)
