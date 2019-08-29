@@ -13,7 +13,9 @@ body {
    /* body {
      background: rgb(53,31,64);
    background: linear-gradient(0deg, rgba(53,31,64,1) 0%, rgba(202,153,242,1) 88%); */
+   body {
    color: white;
+   }
    .wrapper{
      position:absolute;
      top:20%;
