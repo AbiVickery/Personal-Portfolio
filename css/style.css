@@ -225,3 +225,18 @@ body {
      /* height: auto; */
      size: 100px;
    }
+   @media (max-width: 30.625em) {
+     .projects {
+      padding: 6rem 1rem;
+     }
+   }
+   @media (max-width: 28.75em) {
+     .icons {
+       text-align: center;
+     }
+   }
+   @media (max-width: 28.75em) {
+     .icons {
+       text-align: center;
+     }
+   }
