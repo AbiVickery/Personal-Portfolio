@@ -226,6 +226,11 @@ body {
      size: 100px;
    }
    @media (max-width: 28.75em) {
+     .nav {
+       justify-content: center;
+     }
+   }
+   @media (max-width: 28.75em) {
      .projects {
        font-size: 4rem;
      }
