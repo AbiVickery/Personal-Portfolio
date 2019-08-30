@@ -15,3 +15,5 @@ icons.forEach (icon => {
 // my youtube,
 // my codepen,
 // my email (buisness address)
+
+// need to finish making working nav bar using the X icon in the top left corner of the page
