@@ -225,6 +225,11 @@ body {
      /* height: auto; */
      size: 100px;
    }
+   @media (max-width: 28.75em) {
+     .projects {
+       font-size: 4rem;
+     }
+   }
    @media (max-width: 30.625em) {
      .projects {
       padding: 6rem 1rem;
